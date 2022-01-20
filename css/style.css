@@ -1,0 +1,41 @@
+.whatsapp-icon{
+    position:fixed;
+    right: 20px;
+    bottom: 20px;
+}
+
+.carta-centrada{
+    margin:auto;
+    float:none;
+    margin-bottom:10px;
+}
+
+body{
+    padding: 10px;
+    margin: 10px;
+}
+p{
+    color:blue;
+    margin: 10px;
+    font-family:'Courier New', Courier, monospace;
+    text-align:center;
+}
+
+.text-success:hover{
+    color:green;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#name{
+    color:red;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.text-success{
+    color: black  !important;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    margin-top: 10px;
+}
