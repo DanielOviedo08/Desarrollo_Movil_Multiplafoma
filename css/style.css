@@ -14,15 +14,17 @@ body{
     padding: 10px;
     margin: 10px;
 }
-p{
+/*p{
     color:blue;
     margin: 10px;
     font-family:'Courier New', Courier, monospace;
     text-align:center;
-}
+}*/
+
+
 
 .text-success:hover{
-    color:green;
+    color:#68EEC8;
     margin: 10px;
     font-family: 'Courier New', Courier, monospace;
 }
